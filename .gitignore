@@ -1,0 +1,6 @@
+composer.phar
+src/Config.php
+/vendor/
+.DS_Store
+/NiceAdmin
+/Medilab
